@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "UPLOADING TO THE CLOUD WHOAH"
